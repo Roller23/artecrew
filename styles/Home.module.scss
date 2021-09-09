@@ -1,0 +1,21 @@
+@import 'fonts';
+
+.sectionWrap {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-image: url("../public/images/suicide_jumper1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.lajcik {
+  font-family: BebasNeue;
+  font-weight: 200
+}
+
+.bolcik {
+  font-family: BebasNeue;
+  font-weight: lighter;
+}
